@@ -20,6 +20,15 @@ body {
 	padding: 0 45px 20px;
 }
 
+header a {
+	color: rgb(152,173,166);
+	text-decoration: none;
+}
+
+header a:hover {
+	color: rgb(111,127,122);
+}
+
 h1 {
 	font-family: 'Baskerville', serif;
 	font-size: 5em;
@@ -42,15 +51,6 @@ p {
 
 .small {
 	font-size: 0.8em;
-}
-
-header a {
-	color: rgb(152,173,166);
-	text-decoration: none;
-}
-
-header a:hover {
-	color: rgb(111,127,122);
 }
 
 #featured img {
