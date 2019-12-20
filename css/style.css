@@ -20,4 +20,5 @@ body {
 h1 {
   font-size: 48px;
   margin: 5px auto;
+  color: gray;
 }
