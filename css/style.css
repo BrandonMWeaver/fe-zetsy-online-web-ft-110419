@@ -49,16 +49,16 @@ p {
 	margin: 0 0 20px 0;
 }
 
-#featured img {
+#about img {
 	border: 5px rgb(152,173,166) solid;
 }
 
-#featured a {
+#about a {
 	color: #1783bb;
 	text-decoration: none;
 }
 
-#featured a:hover {
+#about a:hover {
 	text-decoration: underline;
 }
 
